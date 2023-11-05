@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 
-**Rohan19Sharma/Rohan19Sharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**Rohan19Sharma/Rohan19Sharma** is a ✨ Curious Teen Coder ✨ looking to make an positive inpact in the world.
 
 
 - 🌱 I’m currently learning Rust
